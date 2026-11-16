@@ -46,7 +46,7 @@ proyecto de Machine Learning para analizar y predecir resultados relacionados co
 
 Resultados de los modelos en Clasificacion
   
-    Modelo  Accuracy  Precision Macro  Recall Macro  F1 Macro
+              Modelo  Accuracy  Precision Macro  Recall Macro  F1 Macro    
     0  Decision Tree    0.8172           0.7078        0.6288    0.6592
     1  Random Forest    0.8239           0.7356        0.6126    0.6531
     2            SVM    0.7718           0.5933        0.6273    0.6078
@@ -55,6 +55,17 @@ Resultados de los modelos en Clasificacion
 <Figure size 1200x600 with 1 Axes><img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/79be4fe6-996a-431b-b7db-7dc1eaed5c23" />
 
 Resultados de los modelos en Regresion
+
+tenemos nuestro mejor modelo regresor evaluado en multiples intervalos
+
+    Intervalo	  Rango de días reales que tiene el caso.
+    Registros	  Cantidad de casos que pertenecen a ese intervalo.
+    MAE	          Error absoluto medio, expresado en días.
+    RMSE	      Raíz del error cuadrático medio, expresada en días.
+    Aceptacion_7	  Porcentaje de predicciones cuyo error es de máximo 7 días.
+    Aceptacion_14	  Porcentaje de predicciones cuyo error es de máximo 14 días.
+    Aceptacion_30	  Porcentaje de predicciones cuyo error es de máximo 30 días.
+    Aceptacion_60	  Porcentaje de predicciones cuyo error es de máximo 60 días.
 
 <table border="1" class="dataframe">
   <thead>
