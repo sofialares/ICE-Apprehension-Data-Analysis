@@ -11,6 +11,12 @@ David Santiago Uscategui Zubieta.
 Dataset:
 https://github.com/deportationdata/ice/raw/refs/heads/main/data/arrests-latest.parquet
 
+Diapositivas:
+https://canva.link/5ddcdfjjn9d0c4e
+
+Video:
+
+
 Colab:
 https://colab.research.google.com/drive/1Y1UCFWeE0yRHs5zPBPCCNcVNy39Nd2Dd?usp=sharing
 
