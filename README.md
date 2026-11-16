@@ -11,6 +11,9 @@ David Santiago Uscategui Zubieta.
 Colab:
 https://colab.research.google.com/drive/1Y1UCFWeE0yRHs5zPBPCCNcVNy39Nd2Dd?usp=sharing
 
+Repositorio:
+https://github.com/sofialares/ICE-Apprehension-Data-Analysis
+
 proyecto de Machine Learning para analizar y predecir resultados relacionados con registros de aprehensiones de ICE
 
     Los datos utilizados en este proyecto provienen del Deportation Data Project (https://deportationdata.org/), una iniciativa 
