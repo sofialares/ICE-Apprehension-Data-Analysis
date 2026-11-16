@@ -9,7 +9,9 @@ proyecto de Machine Learning para analizar y predecir resultados relacionados co
 
 **Problema**
 
-    La información histórica de los arrestos realizados por el ICE permite analizar los casos registrados, pero no ofrece directamente una estimación anticipada de su duración ni del programa por el que serán procesados. Esto plantea la necesidad de identificar patrones en los datos que permitan estimar ambos resultados.
+    La información histórica de los arrestos realizados por el ICE permite analizar los casos registrados, 
+    pero no ofrece directamente una estimación anticipada de su duración ni del programa por el que serán procesados. 
+    Esto plantea la necesidad de identificar patrones en los datos que permitan estimar ambos resultados.
 
 
 **Objetivo**
