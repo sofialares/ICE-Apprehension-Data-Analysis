@@ -1,4 +1,9 @@
 # ICE-Apprehension-Data-Analysis
+Autores: 
+Sofia Del rosario Lares sanchez,
+Juan Camilo Villarreal Olarte,
+David Santiago Uscategui Zubieta.
+
 proyecto de Machine Learning para analizar y predecir resultados relacionados con registros de aprehensiones de ICE
 
 **Motivación**
