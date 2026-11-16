@@ -6,9 +6,13 @@ David Santiago Uscategui Zubieta.
 
 proyecto de Machine Learning para analizar y predecir resultados relacionados con registros de aprehensiones de ICE
 
-    Los datos utilizados en este proyecto provienen del **Deportation Data Project** (https://deportationdata.org/), una iniciativa pública de investigación que recopila y sistematiza registros administrativos de operaciones migratorias de la administración estadounidense.
+    Los datos utilizados en este proyecto provienen del Deportation Data Project (https://deportationdata.org/), una iniciativa 
+    pública de investigación que recopila y sistematiza registros administrativos de operaciones migratorias de la 
+    administración estadounidense.
 
-    Los datos originales fueron recolectados por la **U.S. Immigration and Customs Enforcement (ICE)**, agencia federal responsable de la ejecución de leyes migratorias en Estados Unidos. ICE mantiene registros detallados de todas las aprehensiones, procesamientos de casos, y remociones que realiza.
+    Los datos originales fueron recolectados por la U.S. Immigration and Customs Enforcement (ICE), agencia federal responsable 
+    de la ejecución de leyes migratorias en Estados Unidos. ICE mantiene registros detallados de todas las aprehensiones, 
+    procesamientos de casos, y remociones que realiza.
 
 **Motivación**
 
