@@ -15,7 +15,7 @@ Diapositivas:
 https://canva.link/5ddcdfjjn9d0c4e
 
 Video:
-
+https://drive.google.com/file/d/1FfvR43XdkAv1hf0uUKxZ0-19aBweMZfO/view?usp=sharing
 
 Colab:
 https://colab.research.google.com/drive/1Y1UCFWeE0yRHs5zPBPCCNcVNy39Nd2Dd?usp=sharing
